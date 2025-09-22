@@ -1,0 +1,16 @@
+{
+  "name": "CMSJOBS",
+  "version": "0.0.0",
+  "description": "The magement services system by MrJunior",
+  "main": "index.ts",
+  "repository": "https://github.com/Mrc-Junior/cms_jobs-v0.git",
+  "author": "Mrc-Junior",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "front-end"
+  ],
+  "dependencies": {
+    "bootstrap": "^5.3.8"
+  }
+}
